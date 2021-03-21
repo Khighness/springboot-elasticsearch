@@ -11,6 +11,8 @@ $ npm install
 $ npm run serve
 # 安装依赖
 $ mvn install 
+# 打包
+$ mvn package
 # 后端运行
 $ cd target/
 $ java -jar springboot-elasticsearch-1.0-SNAPSHOT.jar
