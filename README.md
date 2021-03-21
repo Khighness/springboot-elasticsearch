@@ -5,13 +5,15 @@
 ## 项目运行
 
 ```shell
+# 安装依赖
+$ npm install
 # 前端运行
-npm install
-npm run serve
+$ npm run serve
+# 安装依赖
+$ mvn install 
 # 后端运行
-mvn install 
-cd target/
-java -jar springboot-elasticsearch-1.0-SNAPSHOT.jar
+$ cd target/
+$ java -jar springboot-elasticsearch-1.0-SNAPSHOT.jar
 ```
 
 
@@ -33,10 +35,10 @@ java -jar springboot-elasticsearch-1.0-SNAPSHOT.jar
         │           └───util       工具层
         └───resources
             └───vue 前端代码
-          	  	├───public
-          	 	 └───src
-            	  	  └───assets
-                    		├───css
-                  		  	└───images
+                ├───public
+                └───src
+                    └───assets
+                        ├───css
+                        └───images
 ```
 
