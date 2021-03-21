@@ -1,5 +1,7 @@
 # springboot-elasticsearch
 
+![Java](https://shields.io/badge/java-8-lightgrey?logo=java&style=for-the-badge) ![Elastic Search](https://shields.io/badge/elasticsearch-7.6.1-lightblue?logo=elasticsearch&style=for-the-badge) ![Spring Boot](https://shields.io/badge/spring%20boot-2.2.2.RELEASE-lightgreen?logo=spring&style=for-the-badge)
+
 
 
 ## 项目运行
